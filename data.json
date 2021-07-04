@@ -1,0 +1,17 @@
+{
+    "name" : "域名过白",
+    "description" : "无忧云备案域名过白插件",
+    "class" : [
+        "boot"
+    ],
+    "dirname":"wuyouyun",
+    "author" : "Inkedus",
+    "url" : "http://node.tax",
+    "post_type" : {
+        "message" : {
+            "group" : [
+                "Group"
+            ]
+        }
+    }
+}
